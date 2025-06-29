@@ -1,4 +1,4 @@
-
+Note: This project is a university project completed over one month with the help of four other people.
 # Medisync Project
 
 **Medisync** is an application project for managing first aid workers. The goal was to allow management of first responders as an **administrator** (manage their skills, view assignments and availability, see all existing medical coverage deployments, create new ones if needed, add/edit/delete rescuers), and also allow management as a **first responder** (manage availability, manage skills, view assignments).  
